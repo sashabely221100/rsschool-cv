@@ -22,7 +22,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    border-bottom: 5px solid rgb(226, 201, 60);
+    border-bottom: 3px solid rgb(226, 201, 60);
 }
 
 header img {
@@ -37,11 +37,11 @@ h2 {
 h1 {
     background: rgb(226, 201, 60);
     color: white;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 h1:hover {
-    text-shadow: 0 0 .1em, 0 0 .3em;
+    text-shadow: 0 0 .2em, 0 0 .3em;
 }
 
 article,
